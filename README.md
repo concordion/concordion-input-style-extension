@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/concordion/concordion-input-style-extension.svg?branch=master)](https://travis-ci.com/concordion/concordion-input-style-extension)
+[![Build and Test](https://github.com/concordion/concordion-input-style-extension/actions/workflows/ci.yml/badge.svg)](https://github.com/concordion/concordion-input-style-extension/actions/workflows/ci.yml)
 
 This [Concordion](http://www.concordion.org) extension adds CSS styling for input elements in the Concordion output. The styling is added as an 'inputstyle' class on data contained in elements with c:set="" attributes.
 
